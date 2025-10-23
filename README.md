@@ -23,7 +23,7 @@ This project showcases how AI-assisted planning can transform a single implement
 
 ### Phase 1: Initial Research - Hybrid Swarm AI
 
-The project began with **[Hybrid Swarm AI](https://github.com/placeholder/hybrid-swarm)** conducting parallel research to understand the landscape:
+The project began with **[Hybrid Swarm AI](https://github.com/MushroomFleet/Hybrid-Swarm-Agent)** conducting parallel research to understand the landscape:
 
 - **Research Agent**: Analyzed ChatGPT's architecture at scale (175B+ parameters)
 - **Writer Agent**: Created comprehensive technical explanation
@@ -515,11 +515,11 @@ Original NanoGPT code by Andrej Karpathy: MIT License
 If you use this holographic unfolding methodology or documentation structure in your work, please cite:
 
 ```bibtex
-@misc{nanogpt-crispy-2025,
+@misc{nanogpt-crispy,
   title={NanoGPT-Crispy: Holographic Unfolding for Structured Learning},
-  author={[Your Name/Organization]},
+  author={[Johnson, Drift]},
   year={2025},
-  howpublished={\url{https://github.com/placeholder/nanogpt-crispy}},
+  howpublished={\url{https://github.com/MushroomFleet/nanogpt-crispy}},
   note={Building on NanoGPT by Andrej Karpathy}
 }
 ```
