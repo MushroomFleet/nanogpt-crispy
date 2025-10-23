@@ -43,7 +43,7 @@ The swarm agents then analyzed the **[NanoGPT repository](https://github.com/kar
 
 ### Phase 3: Sequential Planning - The "Unfold" Skill
 
-Using the **[Unfold Skill](https://github.com/placeholder/unfold-skill)**, we created a comprehensive 7-phase implementation plan:
+Using the **[Unfold Skill](https://github.com/MushroomFleet/DJZ-Claude-Skills)**, we created a comprehensive 7-phase implementation plan:
 
 - **Phase 0**: [Project Overview](docs/Phase0.md) - Architecture and roadmap
 - **Phase 1**: [Project Setup](docs/Phase1.md) - Environment and configuration
@@ -405,11 +405,11 @@ This project builds upon Karpathy's exceptional work by creating structured lear
 ## 🔗 Repository Links
 
 ### This Project
-- **NanoGPT-Crispy**: [github.com/placeholder/nanogpt-crispy](https://github.com/placeholder/nanogpt-crispy)
+- **NanoGPT-Crispy**: [https://github.com/MushroomFleet/nanogpt-crispy](https://github.com/MushroomFleet/nanogpt-crispy)
 
 ### Related Tools & Methodologies
-- **Unfold Skill**: [github.com/placeholder/unfold-skill](https://github.com/placeholder/unfold-skill)
-- **Hybrid Swarm AI**: [github.com/placeholder/hybrid-swarm](https://github.com/placeholder/hybrid-swarm)
+- **Unfold Skill**: [https://github.com/MushroomFleet/DJZ-Claude-Skills](https://github.com/MushroomFleet/DJZ-Claude-Skills)
+- **Hybrid Swarm AI**: [https://github.com/MushroomFleet/Hybrid-Swarm-Agent](https://github.com/MushroomFleet/Hybrid-Swarm-Agent)
 
 ### Original NanoGPT
 - **NanoGPT Repository**: [github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
