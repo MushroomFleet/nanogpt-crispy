@@ -548,3 +548,11 @@ If you use this holographic unfolding methodology or documentation structure in 
 **Built with 🧠 using AI-assisted holographic unfolding methodology**
 
 *Exploring new frontiers in structured learning and knowledge organization*
+
+---
+
+## Support This Project
+
+If you found this useful, please **star the repo** — it helps others discover it!
+
+[![Star on GitHub](https://img.shields.io/github/stars/MushroomFleet/nanogpt-crispy?style=social)](https://github.com/MushroomFleet/nanogpt-crispy)
